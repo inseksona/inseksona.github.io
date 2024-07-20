@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inseksona.github.io/sitemap
+Sitemap: https://inseksona.github.io/app/sitemap
+Sitemap: https://inseksona.github.io/assets/sitemap
+Sitemap: https://inseksona.github.io/css/sitemap
+Sitemap: https://inseksona.github.io/includes/sitemap
+Sitemap: https://inseksona.github.io/item/sitemap
+Sitemap: https://inseksona.github.io/src/sitemap
